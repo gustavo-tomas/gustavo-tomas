@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Student of Computer Science @ https://cic.unb.br</h3>
 
-- 🌱 I’m currently learning **Discord.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **gustavo.tomas@aluno.unb.br**
 
