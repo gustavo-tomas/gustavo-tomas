@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Student of Computer Science @ https://cic.unb.br</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **The Ups and Downs of Walking**
 
 - 📫 How to reach me **gustavo.tomas@aluno.unb.br**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tomas&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
