@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Student of Computer Science @ https://cic.unb.br</h3>
+<h3 align="center">Computer Science student @ https://cic.unb.br</h3>
 
 - 🌱 I’m currently learning **The Ups and Downs of Walking**
 
