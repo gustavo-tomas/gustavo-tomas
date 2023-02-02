@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tomas&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">My Portfolio:</h3>
-<a href="https://gustavo-tomas.github.io/" target="_blank">Checkout some of my projects!</a>
+<a href="https://gustavo-tomas.github.io/web-portfolio/" target="_blank">Checkout some of my projects!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
