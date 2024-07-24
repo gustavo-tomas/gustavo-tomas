@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **The Ups and Downs of Walking**
 
-- 📫 How to reach me **gustavo.tomas@aluno.unb.br**
+- 📫 How to reach me **guga.tomas10@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tomas&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
