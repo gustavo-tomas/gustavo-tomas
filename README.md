@@ -12,6 +12,7 @@
 ➤ <a href="https://gustavo-tomas.github.io/" target="_blank">Portfolio</a>
 ➤ <a href="mailto:guga.tomas10@gmail.com">Contact</a>
 <br>
+<img src="assets/sv001.gif">
 <!-- ●・○・●・○・● -->
 • 𓆩⟡𓆪 • 𓆩⟡𓆪 • 𓆩⟡𓆪 •
 <br>
